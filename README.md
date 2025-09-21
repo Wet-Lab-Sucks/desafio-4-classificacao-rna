@@ -1,4 +1,4 @@
-# Desafio 4 - Classificação de RNA
+# Desafio 4: Classificação de RNA
 
 ## Descrição do Desafio
 
